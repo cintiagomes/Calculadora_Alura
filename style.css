@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(https://static.vecteezy.com/ti/vetor-gratis/p3/278190-galaxia-fundo-paisagem-vector-gr%C3%A1tis-vetor.jpg);
+    
+}
+
+.container{
+    position: relative;
+    width: 230px;
+    margin: 0 auto;
+}
+.titulo{
+    font-family: "Press Start 2P", cursive;
+    text-align: center;
+    margin: 50px;
+    color: white;
+    font-size: 42px;
+}
+.display{
+    position: absolute;
+    width: 200px;
+    height: 70px;
+    left: 13px;
+    top: 0px;
+    background-color: #2d2d2d;
+    color: white;
+    border-radius: 20px 20px 0px 0px;
+    padding: 20px;
+    font-family: "Press Start 2P", cursive;
+    align-items: center;
+    text-align: right;
+    font-size: 22.5px;
+  }
+  .logoAlura{
+    width: 300px;
+    margin-left: 40%;
+    margin-top: 20px;
+  }
+
